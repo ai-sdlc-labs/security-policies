@@ -1,0 +1,5 @@
+# Organization-wide security policies are specified and owned by security.
+*            @ai-sdlc-labs/policy-owners
+
+# Repo rules, workflows and this file
+/.github/    @ai-sdlc-labs/platform
